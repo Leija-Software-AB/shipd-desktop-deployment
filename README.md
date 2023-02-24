@@ -1,4 +1,4 @@
-# Deployment repository for Shipd Desktop
-Public distribution repository for Shipd Desktop
+# Deployment repository for Shipd
+Public distribution repository for Shipd
 
-All public releases are available under "releases", this repository provides new executeables for the auto-update client.
+You can find all prior public releases and their release notes under "releases", this repository provides new executeables for the auto-update client.
